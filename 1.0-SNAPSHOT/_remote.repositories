@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jun 19 18:48:03 EEST 2024
+taskmanager-archetype-1.0-SNAPSHOT.jar>=
+taskmanager-archetype-1.0-SNAPSHOT.pom>=
